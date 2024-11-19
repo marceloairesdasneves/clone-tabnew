@@ -1,5 +1,3 @@
 function Home() {
-    return <h1>test5.5</h1>
-
-    export default Home;
+    return <h1>Teste 122</h1>
 }
