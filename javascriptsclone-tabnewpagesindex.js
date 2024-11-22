@@ -1,0 +1,350 @@
+[33mcommit e7e2c076cef1f92d40b812774839a3f38d462493[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Fri Nov 22 18:47:33 2024 -0300
+
+    erros227
+
+[33mcommit 5834cdded453c2f8237238078323facfcccfb97f[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Fri Nov 22 18:44:22 2024 -0300
+
+    Update index.js
+
+[33mcommit 4578748a2f22ecb40b6c395a3f9f404bb7198b7b[m
+Merge: e16608f b9ca4ae
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Fri Nov 22 18:39:54 2024 -0300
+
+    Merge branch 'main' of https://github.com/marceloairesdasneves/clone-tabnew
+
+[33mcommit e16608f79e03c4fc294b7e97780aa7b53c7d5816[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Fri Nov 22 18:39:15 2024 -0300
+
+    error225
+
+[33mcommit b9ca4ae825ae7ed68f30022a277a6b5be1ba7b05[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Fri Nov 22 18:28:07 2024 -0300
+
+    Update index.js
+    
+    Test do retorno do GIT para VSCODE err224
+
+[33mcommit 7c6ab793697441a5bfaefb46c8bacb85fe92d843[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Fri Nov 22 18:25:34 2024 -0300
+
+    erros223
+
+[33mcommit b311a0ae1bcc9e36c9ea30d08fe713a2e682c8b1[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Fri Nov 22 18:19:23 2024 -0300
+
+    errr 222
+
+[33mcommit 49e0f473a47662422e35e58775a86385e299e252[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Fri Nov 22 17:18:34 2024 -0300
+
+    test221
+
+[33mcommit 7f91bfad4044429af64c7170759ad97ef3b17b93[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Fri Nov 22 17:04:22 2024 -0300
+
+    test2211_5
+
+[33mcommit 96e796517066f334b14727a74087201d4c3b4987[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Fri Nov 22 16:43:19 2024 -0300
+
+    Testando marcelo3
+
+[33mcommit 8d302f8b51682cf773cbbe5e4d2ab41b3889b270[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Fri Nov 22 16:42:07 2024 -0300
+
+    testando marcelo 2
+
+[33mcommit eec66004553d7f2637a18412d682e1f2dc5ab2aa[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Fri Nov 22 16:30:08 2024 -0300
+
+    Testando marcelo1
+
+[33mcommit d27d7bd62327c5baaf84a90deba19e59d618bc1b[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Fri Nov 22 16:28:06 2024 -0300
+
+    test manual 1
+
+[33mcommit 2066ef424a02edf00a907c0880ab4a8e53dfa2bd[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Fri Nov 22 15:50:37 2024 -0300
+
+    test
+
+[33mcommit 81738e274c29e9ec2cb7f8afb8427c16e61ad743[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Fri Nov 22 15:39:51 2024 -0300
+
+    Update index.js
+    
+    Teste de returno da alteracao
+
+[33mcommit 6fb12e2ff7a214b6341d1a2790a1dde67b32da1d[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Fri Nov 22 15:36:49 2024 -0300
+
+    Teste 2211
+
+[33mcommit ed3a956f1fc4a29528c889127a4de396f1873e5c[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Thu Nov 21 19:48:50 2024 -0300
+
+    Teste 2111_3
+
+[33mcommit 54c4ecec797bc46f2ad45656b4fecb1cb6600011[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Thu Nov 21 19:37:46 2024 -0300
+
+    Teste 2111_2
+
+[33mcommit 619e3633e3f1f6ad4abd78ce2bb9ef77bf82b38e[m
+Merge: 13d438d 7632802
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Thu Nov 21 19:34:07 2024 -0300
+
+    Merge branch 'main' of https://github.com/marceloairesdasneves/clone-tabenew
+
+[33mcommit 13d438d9b777c320be740b3f37512b40d6160952[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Thu Nov 21 19:34:00 2024 -0300
+
+    test
+
+[33mcommit 76328023a7b8525db4ab3d4962be98ab4aabd5d9[m
+Merge: 2df8a16 471dafb
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Thu Nov 21 19:25:51 2024 -0300
+
+    Merge remote-tracking branch 'origin/HEAD'
+
+[33mcommit 2df8a161c9ebbde5e0ffaad749d97e30682718c6[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Thu Nov 21 19:14:11 2024 -0300
+
+    test
+
+[33mcommit 471dafbfe8aa84817ab75c084ecf5b3c68bb85d7[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Thu Nov 21 19:14:11 2024 -0300
+
+    gitignore test
+
+[33mcommit bd4d0eccd4ea58cb13b1aa0f5dc9f5b78895cb8c[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Thu Nov 21 19:06:50 2024 -0300
+
+    testgitignore
+
+[33mcommit 246a5c30951147ce2b987033ea073d6754ca4b76[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Thu Nov 21 19:00:53 2024 -0300
+
+    Teste 2111_1
+
+[33mcommit 37589126fccc60f41e119db77dfb421d1dbf1e11[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Thu Nov 21 18:55:53 2024 -0300
+
+    test 2111
+
+[33mcommit 64c8a0e71573d10d5f32c713785fcabcaa732dff[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Tue Nov 19 19:12:52 2024 -0300
+
+    Test github 5
+
+[33mcommit c7f0371593e8ab7290e9be6b23ac054bcd822a80[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Tue Nov 19 22:17:50 2024 +0000
+
+    test5.5
+
+[33mcommit 011977a73f9e1264383d477b9a17f315825d457d[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Tue Nov 19 19:10:17 2024 -0300
+
+    Test github 4
+
+[33mcommit 35aa859c32b47079d9f90675e6aa04e0af8155b4[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Tue Nov 19 19:04:44 2024 -0300
+
+    Test github 3.2
+
+[33mcommit 963765968c589c643f57a225d2732facb335b583[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Tue Nov 19 19:03:08 2024 -0300
+
+    Update index.js
+    
+    Test github 3.1
+
+[33mcommit 8294ae1ea1ab7611215c860f4888aea56401d2c3[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Tue Nov 19 19:01:19 2024 -0300
+
+    Test github 3
+
+[33mcommit d111c0e4eba5b66db4109f22b86e6be93de8d468[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 18:21:47 2024 -0300
+
+    teste
+
+[33mcommit 8b116236a8195b2f2224266e120e4652a1126623[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 18:20:07 2024 -0300
+
+    test
+
+[33mcommit 7a7242d6b598bfd2546b6e2bfd9f817904125652[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 18:17:43 2024 -0300
+
+    test
+
+[33mcommit bb121b7e9304d2748a14359da647714f4d78a00c[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 18:10:11 2024 -0300
+
+    test
+
+[33mcommit 6ae668d2a44587291b47e8abac516d3e44565904[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 17:55:20 2024 -0300
+
+    test
+
+[33mcommit 16a10266b78cf8f26b80fc41b23e77b5bf878f86[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 20:49:14 2024 +0000
+
+    test
+
+[33mcommit a3759f2415a3f968330b0e7de35b56dea3e0e071[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 20:40:21 2024 +0000
+
+    test
+
+[33mcommit 63da8fc424513b886484d05e31dc3b7be0cdffa6[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 19:46:00 2024 +0000
+
+    test
+
+[33mcommit 7372cb0dadfc36db4fd22e2a4fc531c4f516d355[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 19:41:15 2024 +0000
+
+    tes
+
+[33mcommit 8549f057e3a249dbf9ee03f65d7a20e78dc969e6[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 19:38:04 2024 +0000
+
+    test
+
+[33mcommit fd158066878730b517c7703234a69baca9b01622[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 19:37:20 2024 +0000
+
+    test
+
+[33mcommit 1b71ee08a2619a075fbaf18495e272aa151ed379[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Wed Nov 13 16:32:42 2024 -0300
+
+    test
+
+[33mcommit b92b538432bf4aff96104ddc2ae59dc4977d29cd[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Wed Nov 13 15:53:39 2024 -0300
+
+    test
+
+[33mcommit d91cebde09bacd4e02fd8e866557611970c12e5a[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Wed Nov 13 15:52:05 2024 -0300
+
+    test
+
+[33mcommit 46b38f4c8514991094b5f08cf42178ccea9254b3[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Wed Nov 13 15:43:41 2024 -0300
+
+    test
+
+[33mcommit c7f65eefe1965688663ae841d2ddbbd80140e051[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Wed Nov 13 15:27:25 2024 -0300
+
+    test
+
+[33mcommit 6fd4c1fc1599cc06409b980de85cfbf000ee29d0[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Wed Nov 13 14:59:39 2024 -0300
+
+    test
+
+[33mcommit 89b15f01d2a2ca85ba0186f86b95714c61d364da[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Wed Nov 13 14:56:14 2024 -0300
+
+    test
+
+[33mcommit a8722837ee15c95be0018aaf1180a462b2ec05c5[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Wed Nov 13 14:39:55 2024 -0300
+
+    test
+
+[33mcommit 336e699840ff73f6e0fca29aaf3669158f7e217d[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Wed Nov 13 14:29:27 2024 -0300
+
+    test2
+
+[33mcommit da3a5bf746a1db01d77512aff033540c96ae473b[m
+Author: marceloairesdasneves <mneves230@gmail.com>
+Date:   Wed Nov 13 12:36:24 2024 -0300
+
+    Test alter response to Marcelo
+
+[33mcommit 1f31fa322282e9c4136a0aa1c9039e415bf7b4d0[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Wed Nov 13 12:26:38 2024 -0300
+
+    test3
+
+[33mcommit 90f6742be2f491a947bc65d693d4a64f1ce50237[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 12:24:42 2024 -0300
+
+    Update tst.js
+
+[33mcommit e08e61b4adb00d57e06373d1cd7410f4ee5ef8c4[m
+Author: marcelo aires das neves <mneves230@gmail.com>
+Date:   Wed Nov 13 12:23:29 2024 -0300
+
+    test1
+
+[33mcommit b59f65e7a4ca89851d6c02cc3a7c6ae5c71c544b[m
+Author: Marcelo Neves <141940013+marceloairesdasneves@users.noreply.github.com>
+Date:   Wed Nov 13 10:46:29 2024 -0300
+
+    Initial commit
